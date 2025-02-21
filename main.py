@@ -217,7 +217,7 @@ if __name__ == '__main__':
 
     print(f"Test Case 4 - Shortest longest moving distance: {result}")
 
-# Test Case 5
+    # Test Case 5
     excavation_map = [
         [1, 1, 1, 1, 1, 1, 1, 1],
         [1, 0, 0, 0, 0, 0, 0, 1],
